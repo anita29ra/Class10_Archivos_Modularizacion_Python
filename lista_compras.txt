@@ -1,5 +1,5 @@
-pan:2275
-manzanas:1000
-huevos:3400
-cerezas:2000
-bananos:150
+Manzana:250
+Naranja:200
+Lechuga:1000
+Aceite:1500
+Uva:400
